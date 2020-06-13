@@ -1,0 +1,5 @@
+discord
+pynacl
+dnspython==1.16.0
+youtube_dl
+bs4
